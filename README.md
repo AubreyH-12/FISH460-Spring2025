@@ -10,6 +10,11 @@
 
 [Final Presentation_ Crab and Caffiene .pdf](https://github.com/user-attachments/files/20601718/Final.Presentation_.Crab.and.Caffiene.pdf)
 
+[Henwood, A - Final project data.xlsx](https://github.com/user-attachments/files/20602184/Henwood.A.-.Final.project.data.xlsx)
+
+[Henwood, A - Final Paper.pdf](https://github.com/user-attachments/files/20602190/Henwood.A.-.Final.Paper.pdf)
+
+
 Project Overview: Caffeine – An Emerging Aquatic Pollutant
 Introduction
 Caffeine, a widely consumed stimulant, is increasingly recognized as an emerging aquatic pollutant. It enters marine environments primarily through wastewater and has been detected at measurable concentrations in coastal ecosystems (Baracchini et al., 2023). Although typically present at low levels, caffeine can have significant biological effects on marine organisms, including disruptions to behavior, metabolism, and stress responses (Li et al., 2020). This study investigates the effects of caffeine on the shore crab Hemigrapsus oregonensis, an intertidal species native to the Pacific Northwest and a known bioindicator of environmental stress.
